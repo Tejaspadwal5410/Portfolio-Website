@@ -12,17 +12,16 @@ Welcome to my WebDev Portfolio repository! This project showcases my growth, cre
 
 ## Live Demo
 
-Curious to see it in action? Check out the [live demo](Live Demo Link).
-
+Curious to see it in action? Check out the [live demo](https://tejaspadwal5410.github.io/Portfolio-Website/).
 ## Getting Started
 
-1. Clone this repository: `git clone [GitHub Repo Link]`
+1. Clone this repository: `git clone [ https://tejaspadwal5410.github.io/Portfolio-Website/ ]`
 2. Navigate to the project directory: `cd My-WebDev-Portfolio`
 3. Open `index.html` in your preferred browser to view the website locally.
 
 ## Connect with Me
 
-Let's connect and discuss this exciting web development journey! Reach out on [LinkedIn](Your LinkedIn Profile Link) or through email at [Your Email Address].
+Let's connect and discuss this exciting web development journey! Reach out on [LinkedIn](Your LinkedIn Profile Lin) or through email at [tejaspadwal2010@gmail.com].
 
 ## Feedback
 
