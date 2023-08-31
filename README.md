@@ -21,7 +21,7 @@ Curious to see it in action? Check out the [live demo](https://tejaspadwal5410.g
 
 ## Connect with Me
 
-Let's connect and discuss this exciting web development journey! Reach out on [LinkedIn](Your LinkedIn Profile Lin) or through email at [tejaspadwal2010@gmail.com].
+Let's connect and discuss this exciting web development journey! Reach out on [LinkedIn](https://www.linkedin.com/in/tejas-padwal-924612256 or through email at [tejaspadwal2010@gmail.com].
 
 ## Feedback
 
